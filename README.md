@@ -6,31 +6,35 @@
 [![Node](https://img.shields.io/badge/node-%3E%3D20.0.0-brightgreen.svg)](https://nodejs.org)
 [![Egg](https://img.shields.io/badge/egg-%5E3-blue.svg)](https://eggjs.org)
 
+## 📑 目录导航
+
+- [平台简介](#平台简介)
+- [演示项目](#演示项目)
+- [前端项目](#前端项目)
+- [特性](#-特性)
+- [项目结构](#-项目结构)
+- [快速开始](#-快速开始)
+- [部署说明](#-部署说明)
+- [请我喝杯咖啡](#请我喝杯咖啡)
+- [参与贡献](#-参与贡献)
+- [开源协议](#-开源协议)
+- [鸣谢](#-鸣谢)
+- [联系方式](#-联系方式)
+- [友情链接](#友情链接)
+
+## 平台简介
+
 基于 Egg.js 框架开发的企业级后台管理系统，100% 实现若依（RuoYi-Vue）系统功能。采用 MyBatis XML 风格编写 SQL，完全复用若依原有的数据库结构和 MyBatis XML 映射文件。
 
-| 公众号                                       | 微信交流群                                                      |
-| -------------------------------------------- | --------------------------------------------------------------- |
-| ![公众号](https://cdn.undsky.com/img/gh.jpg) | ![微信交流群](https://cdn.undsky.com/img/doudouqun.jpg?v=2.0.1) |
+| 公众号                                       | 微信交流群                                                      | QQ群                                          |
+| -------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------- |
+| ![公众号](https://cdn.undsky.com/img/gh.jpg) | ![微信交流群](https://cdn.undsky.com/img/doudouqun.jpg?v=2.3.0) | ![QQ群](https://cdn.undsky.com/img/qqqun.jpg) |
 
 ## 演示项目
 
 - 🖥️ Element Plus 版本：http://ry.undsky.com/admin/login?redirect=/index
 - 🎨 Vue3 Prettier 版本：http://ry2.undsky.com/login?redirect=/index
 - 🐻 BearJia Vue3 版本：http://ry1.undsky.com/login3
-
-## 📋 快速导航
-
-- [演示项目](#演示项目) - 在线演示地址
-- [前端项目](#前端项目) - 配置 Vue3 前端对接
-- [✨ 特性](#-特性) - 核心特性与技术栈
-- [📦 项目结构](#-项目结构) - 目录结构说明
-- [🚀 快速开始](#-快速开始) - 环境要求与安装步骤
-- [🚢 部署说明](#-部署说明) - 生产环境部署
-- [请我喝杯咖啡](#请我喝杯咖啡) - 支持项目
-- [🤝 参与贡献](#-参与贡献) - 贡献指南
-- [📄 开源协议](#-开源协议) - MIT 协议
-- [🙏 鸣谢](#-鸣谢) - 致谢
-- [📞 联系方式](#-联系方式) - 获取帮助
 
 ## 前端项目
 
@@ -410,3 +414,7 @@ server {
 - 网站：[https://www.undsky.com](https://www.undsky.com)
 - GitHub：[https://github.com/undsky/ruoyi-eggjs](https://github.com/undsky/ruoyi-eggjs)
 - Issues：[https://github.com/undsky/ruoyi-eggjs/issues](https://github.com/undsky/ruoyi-eggjs/issues)
+
+## 友情链接
+
+- [LINUX DO - 新的理想型社区](https://linux.do/)
