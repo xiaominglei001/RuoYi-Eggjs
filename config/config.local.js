@@ -25,7 +25,7 @@ module.exports = (appInfo) => {
       ruoyi: {
         host: "127.0.0.1",
         user: "root",
-        password: "jyx123",
+        password: "123456",
         database: "ruoyi",
       },
     },
